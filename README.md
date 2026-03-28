@@ -45,7 +45,7 @@ learning:
 - 🌱 **Learning:** Spring AI tool calling → LangChain4j → MCP Protocol → Agentic AI
 - 👯 **Open to collaborate on:** Open-source fintech projects & AI-native trading systems
 - 🎯 **2026 Target:** Backend Engineering @ Goldman Sachs | JP Morgan | Juspay | Razorpay
-- 🤝 **Contributing to:** [Apache Fineract (Mifos)](https://github.com/apache/fineract) for GSoC 2026
+- 🤝 **Contributing to:** [Apache Fineract (Mifos)](https://github.com/apache/fineract)
 - 💬 **Ask me about:** Java, Spring Boot, REST APIs, Microservices, Algorithmic Trading, Multi-Agent AI
 - 📝 **I write on:** [Medium](https://medium.com/@mishrasatyam3456)
 - ⚡ **Fun fact:** Training daily for an AI-native hedge fund career — algorithms meet autonomous intelligence
